@@ -63,15 +63,17 @@ Install Express as Dependency
 yarn add express
 ```
 
+Install Nodemon as Development Dependency
+```sh
+yarn add nodemon -D
+```
+
+# FINANCES API
 Install UUID as Dependency
 ```sh
 yarn add uuid
 ```
 
-Install Nodemon as Development Dependency
-```sh
-yarn add nodemon -D
-```
 
 # Test Tools
 
