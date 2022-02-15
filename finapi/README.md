@@ -9,8 +9,8 @@
 - [x] It should be possible to make a deposit
 - [x] It should be possible to make a withdrawal
 - [x] It should be possible to get the client account statement by date
-- [ ] It should be possible to update the client account data
-- [ ] It should be possible to get the client account data
+- [x] It should be possible to update the client account data
+- [x] It should be possible to get the client account data
 - [ ] It should be possible to delete an account
 
 ---
