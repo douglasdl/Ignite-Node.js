@@ -11,7 +11,8 @@
 - [x] It should be possible to get the client account statement by date
 - [x] It should be possible to update the client account data
 - [x] It should be possible to get the client account data
-- [ ] It should be possible to delete an account
+- [x] It should be possible to delete an account
+- [ ] It should be possible to get the account balance
 
 ---
 
@@ -22,4 +23,4 @@
 - [x] It should not be possible to make a deposit to an account that does not exist
 - [x] It should not be possible to make a withdrawal from an account that does not exist
 - [x] It should not be possible to make a withdrawal if there are no sufficient funds
-- [ ] It should not be possible to delete an account that does not exist
+- [x] It should not be possible to delete an account that does not exist
